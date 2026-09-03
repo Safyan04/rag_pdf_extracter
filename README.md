@@ -1,6 +1,3 @@
-Haan, samajh gaya 👍 **README professional ho lekin unnecessarily long na ho.** Tumhari repo structure ke according yeh concise version better rahega:
-
-````markdown
 # RAG PDF Question Answering System
 
 A simple **Retrieval-Augmented Generation (RAG)** application built with **LangChain, ChromaDB, and Google Gemini**.
