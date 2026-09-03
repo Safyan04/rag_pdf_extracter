@@ -172,7 +172,6 @@ When a user asks a question, the system:
 3. Adds the context to the prompt.
 4. Sends the prompt to Gemini.
 5. Returns the generated answer.
-6. 
 
 ## Author
 
