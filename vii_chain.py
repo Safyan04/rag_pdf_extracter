@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
-load_dotenv()
+# load_dotenv()
 
 llm = ChatGroq(
     model="openai/gpt-oss-120b"

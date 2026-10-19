@@ -7,7 +7,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 
-load_dotenv()
+# load_dotenv()
 
 st.set_page_config(page_title="AI PDF QA System", page_icon="📄", layout="centered")
 

@@ -3,7 +3,7 @@ from ii_chunks import chunk
 from iii_embeding import embedding
 from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 
 
